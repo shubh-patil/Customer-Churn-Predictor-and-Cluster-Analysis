@@ -2,6 +2,7 @@
 This project focuses on analyzing telecom customer behavior using machine learning and clustering techniques to identify customer churn risk and uncover hidden customer segments.
 
 📊 Telco Customer Intelligence System
+
 📌 Project Overview
 
 This project focuses on analyzing telecom customer behavior using machine learning and clustering techniques to identify customer churn risk and uncover hidden customer segments.
